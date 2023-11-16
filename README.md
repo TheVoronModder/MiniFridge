@@ -7,7 +7,7 @@ HUGE SHOUT OUT TO HIM for his design and giving me the idea to make a door for t
 
 WHY? Because it's the Bees Knees! Seriously though, Top hat issues aside it makes sense to have 1 tall door with the handle the v0 literally looks like a mini fridge.
 
-#**CURRENT RELEASE: BETA TESTING! RevA**
+<# **CURRENT RELEASE: BETA TESTING! RevA** >
 
 **Issues:**
 
