@@ -18,12 +18,12 @@ https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door
 
 Different dimensional profiles of 1515 extrusions.
 
-I have an LDO v0.2 and honestly, the rails are nice having 3.2mm T slot gap, however, others available are between 6.2-6.5mm slot profile.
+LDO rails are specific compared to other rails such as MakerBeam XL and V Slot Channels
 
 ![1515 EXTRUSION COMPARISON]
 ![1515 EXTRUSION COMPARISON](https://github.com/TheVoronModder/MiniFridge/assets/142328467/4ffdb9b3-0135-4e9b-a8d7-f8a08344421f)
 
-In the Above image the LDO extrusions Profile A. and B. (LEFT) are different than regular extrusion A. and B. (RIGHT)
+In the above image, the LDO extrusions Profile A. and B. (LEFT) are slightly different than the MakerBeam XL (CENTER) and amazon.com sourced 1515 extrusions, most we have found are V Slot style and could potentially work, however, LDO and MakerBeam XL are currently ONLY supported.
 
 ## **SOLUTION!**
 
@@ -58,7 +58,7 @@ ${{\color{lime}\Huge{\textsf{  LDO\ Mini\ Fridge\ Ulitmate\ \}}}}\$
 - Replace A/B and Front Idler printed parts with new ones eliminating the Split Vertical Extrusion on all 4 sides completely removing the TOP HAT for LDO and Regular Extrusion Styles utilizing LDO MiSUMi style 1515 extrusions **STL's are for LDO specific extrusions*** - Specified in downloads folder
 
 
-${{\color{cyan}\Huge{\textsf{  Mini\ Fridge\ Ulitmate\ \}}}}\$
+${{\color{cyan}\Huge{\textsf{  Makerbeam\Mini\ Fridge\ Ulitmate\ \}}}}\$
 
 - Replace A/B and Front Idler printed parts with new ones eliminating the Split Vertical Extrusion on all 4 sides completely removing the TOP HAT for LDO and Regular Extrusion Styles utilizing 6.2-6.2mm V Slot 1515 extrusions **STL's are for 6.2-6.2mm T Slot extrusions*** - Specified in downloads folder
 
@@ -67,7 +67,7 @@ ${{\color{orange}\Huge{\textsf{  LDO\ Mini\ Fridge\ Base\ \}}}}\$
 
 - Adds Mini Fridge front door using LDO style Extrusions while being able to keep TOP HAT functionality.
 
-${{\color{violet}\Huge{\textsf{  Mini\ Fridge\ Base\ \}}}}\$
+${{\color{violet}\Huge{\textsf{  Makerbeam\ Mini\ Fridge\ Base\ \}}}}\$
 
 - Adds Mini Fridge front door using 6.2-6.2mm T Slot Extrusions while being able to keep TOP HAT functionality.
 
