@@ -1,6 +1,9 @@
 # MiniFridge
 ## Fridge Door for v0's
 
+--\| Door Lock Latch is being worked on at the moment |/--
+
+
 This project was designed from WhoppingPochard's Clicky-Clack door mod for 2.4's and Tridents. 
 
 ### Huge Shout Out to woppingpochard for his design which gave me the idea to make a door for the v0's
