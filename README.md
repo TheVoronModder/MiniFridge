@@ -17,10 +17,9 @@ I have an LDO v0.2 and honestly, the rails are nice having 3.2mm T slot gap, how
 
 ![1515 EXTRUSION COMPARISON](https://github.com/TheVoronModder/MiniFridge/assets/142328467/916d1936-d7f8-4788-9f6a-3e74f0258650)
 
-In the Above image the LDO extrusions Profile A. and B. are different than regular extrusion A. and B.
+In the Above image the LDO extrusions Profile A. and B. (LEFT) are different than regular extrusion A. and B. (RIGHT)
 
-**SOLUTION!
-**
+## **SOLUTION!**
 The solution is simple, have different profiles of hinges and latches for various Extrusion T Slot profiles. 
 
 
