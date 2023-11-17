@@ -20,6 +20,7 @@ I have an LDO v0.2 and honestly, the rails are nice having 3.2mm T slot gap, how
 In the Above image the LDO extrusions Profile A. and B. (LEFT) are different than regular extrusion A. and B. (RIGHT)
 
 ## **SOLUTION!**
+
 The solution is simple, have different profiles of hinges and latches for various Extrusion T Slot profiles. 
 
 
