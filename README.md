@@ -62,7 +62,7 @@ ${{\color{cyan}\Huge{\textsf{  Mini\ Fridge\ Ulitmate\ \}}}}\$
 - Replace A/B and Front Idler printed parts with new ones eliminating the Split Vertical Extrusion on all 4 sides completely removing the TOP HAT for LDO and Regular Extrusion Styles utilizing 6.2-6.2mm V Slot 1515 extrusions **STL's are for 6.2-6.2mm T Slot extrusions*** - Specified in downloads folder
 
 
-${{\color{cyan}\Huge{\textsf{  LDO\ Mini\ Fridge\ Base\ \}}}}\$
+${{\color{orange}\Huge{\textsf{  LDO\ Mini\ Fridge\ Base\ \}}}}\$
 
 - Adds Mini Fridge front door using LDO style Extrusions while being able to keep TOP HAT functionality.
 
