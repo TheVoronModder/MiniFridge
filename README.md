@@ -51,7 +51,8 @@ Top Hats for LDO are shorter than generic Voron V0.2 kits.
 
 ##Versions 
 
-### LDO Mini Fridge Ultimate
+
+${{\color{Green}\Huge{\textsf{  LDO\ Mini\ Fridge\ Ulitmate \}}}}\$
 - Replace A/B and Front Idler printed parts with new ones eliminating the Split Vertical Extrusion on all 4 sides completely removing the TOP HAT for LDO and Regular Extrusion Styles utilizing LDO MiSUMi style 1515 extrusions **STL's are for LDO specific extrusions*** - Specified in downloads folder
 
 ### Mini Fridge Ultimate
