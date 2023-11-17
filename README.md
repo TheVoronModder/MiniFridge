@@ -58,7 +58,7 @@ ${{\color{lime}\Huge{\textsf{  LDO\ Mini\ Fridge\ Ulitmate\ \}}}}\$
 - Replace A/B and Front Idler printed parts with new ones eliminating the Split Vertical Extrusion on all 4 sides completely removing the TOP HAT for LDO and Regular Extrusion Styles utilizing LDO MiSUMi style 1515 extrusions **STL's are for LDO specific extrusions*** - Specified in downloads folder
 
 
-${{\color{cyan}\Huge{\textsf{  Makerbeam\Mini\ Fridge\ Ulitmate\ \}}}}\$
+${{\color{cyan}\Huge{\textsf{  Makerbeam\ Mini\ Fridge\ Ulitmate\ \}}}}\$
 
 - Replace A/B and Front Idler printed parts with new ones eliminating the Split Vertical Extrusion on all 4 sides completely removing the TOP HAT for LDO and Regular Extrusion Styles utilizing 6.2-6.2mm V Slot 1515 extrusions **STL's are for 6.2-6.2mm T Slot extrusions*** - Specified in downloads folder
 
