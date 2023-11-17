@@ -20,7 +20,8 @@ Different dimensional profiles of 1515 extrusions.
 
 I have an LDO v0.2 and honestly, the rails are nice having 3.2mm T slot gap, however, others available are between 6.2-6.5mm slot profile.
 
-![1515 EXTRUSION COMPARISON](https://github.com/TheVoronModder/MiniFridge/assets/142328467/916d1936-d7f8-4788-9f6a-3e74f0258650)
+![1515 EXTRUSION COMPARISON]
+![1515 EXTRUSION COMPARISON](https://github.com/TheVoronModder/MiniFridge/assets/142328467/4ffdb9b3-0135-4e9b-a8d7-f8a08344421f)
 
 In the Above image the LDO extrusions Profile A. and B. (LEFT) are different than regular extrusion A. and B. (RIGHT)
 
