@@ -26,5 +26,20 @@ The solution is simple, have different profiles of hinges and latches for variou
 
 
 BOM:
+4x m5 x 40 Pin
+12x m6 x 3 Neodymium magnets
+2x m3 x 6 SCHC bolts
 
+Extrusions are dependent on V0 mods you have. 
 
+For OEM LDO Voron v0.2 
+2x 350mm Long MiSUMi LDO 1515 extrusions 
+2x 200mm Long MiSUMi LDO 1515 extrusions
+
+Top Hats for LDO are shorter than generic Voron V0.2 kits.
+
+# This mod has 2 versions, 1. Keep TOP HAT open functionality and 2. Eliminate Top Hat Movement
+
+I personally prefer option 2 eliminating the need of a bending tophat.
+
+**Due to variances in different 3d printer dimensional accuracy in printing 
