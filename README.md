@@ -2,7 +2,7 @@
 ## Fridge Door for v0's
 
 
-<code style="color : yellow">Door Lock Latch is being worked on at the moment</code>
+<code style="color : greenyellow">Door Lock Latch is being worked on at the moment</code>
 
 
 This project was designed from WhoppingPochard's Clicky-Clack door mod for 2.4's and Tridents. 
