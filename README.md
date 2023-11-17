@@ -38,9 +38,9 @@ For OEM LDO Voron v0.2
 
 Top Hats for LDO are shorter than generic Voron V0.2 kits.
 
-# This mod has 2 versions, 1. Keep TOP HAT open functionality and 2. Eliminate Top Hat Movement
+# This mod has 4 versions....
 
-I personally prefer option 2 eliminating the need of a bending tophat.
+## Outlined below
 
 **Due to variances in different 3d printers dimensional accuracy in printing results may vary, the v0.2 has the XY gantry parts in the middle of the extrusions, there are configurations/mods that replace the plastic parts as part of the frame together leading to a more stable V0.2 anyway.***
 
