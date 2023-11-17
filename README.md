@@ -3,9 +3,9 @@
 
 This project was designed from WhoppingPochard's Clicky-Clack door mod for 2.4's and Tridents. 
 
-HUGE SHOUT OUT TO HIM for his design and giving me the idea to make a door for the v0's
+## Huge Shout Out to WoppingPochard for his design and giving me the idea to make a door for the v0's
+https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door
 
-WHY? Because it's the Bees Knees! Seriously though, Top hat issues aside it makes sense to have 1 tall door NOT to mention the "fridge" handle on the v0 literally looks like a mini fridge.
 
 # **CURRENT RELEASE: BETA TESTING! RevA**
 
