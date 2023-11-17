@@ -5,7 +5,7 @@ This project was designed from WhoppingPochard's Clicky-Clack door mod for 2.4's
 
 HUGE SHOUT OUT TO HIM for his design and giving me the idea to make a door for the v0's
 
-WHY? Because it's the Bees Knees! Seriously though, Top hat issues aside it makes sense to have 1 tall door with the handle the v0 literally looks like a mini fridge.
+WHY? Because it's the Bees Knees! Seriously though, Top hat issues aside it makes sense to have 1 tall door NOT to mention the "fridge" handle on the v0 literally looks like a mini fridge.
 
 # **CURRENT RELEASE: BETA TESTING! RevA**
 
