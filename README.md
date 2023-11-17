@@ -3,7 +3,7 @@
 
 This project was designed from WhoppingPochard's Clicky-Clack door mod for 2.4's and Tridents. 
 
-## Huge Shout Out to woppingpochard for his design and giving me the idea to make a door for the v0's
+### Huge Shout Out to woppingpochard for his design which gave me the idea to make a door for the v0's
 https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door
 
 
