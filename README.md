@@ -57,3 +57,4 @@ Top Hats for LDO are shorter than generic Voron V0.2 kits.
 
 ### Mini Fridge Base
 - Adds Mini Fridge front door using 6.2-6.2mm T Slot Extrusions while being able to keep TOP HAT functionality.
+
