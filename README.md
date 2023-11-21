@@ -12,7 +12,7 @@ This project was designed from WhoppingPochard's Clicky-Clack door mod for 2.4's
 https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door
 
 
-# **CURRENT RELEASE: BETA TESTING! RevA**
+# **CURRENT RELEASE: BETA TESTING! Rev B/C**
 
 ## **Issues:**
 
@@ -27,9 +27,9 @@ In the above image, the LDO extrusions Profile A. and B. (LEFT) are slightly dif
 
 ## **SOLUTION!**
 
-The solution is simple, have different profiles of hinges and latches for various Extrusion T Slot profiles. 
+The solution is simple, focus on the most popular linear rails.
 
-
+Makerbeam XL has the 3mm channel width, parts designed are for 3mm channel width however, they work well with LDO MiSUMi rails also.
 
 BOM:
 4x m5 x 40 Pin
