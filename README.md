@@ -5,9 +5,8 @@
 
 ${{\color{Goldenrod}\Huge{\textsf{ V0.2\ \}}}}\$ ${{\color{Lime}\Huge{\textsf{ Mini\ Fridge\ \}}}}\$ ${{\color{lightblue}\Huge{\textsf{ Door\ Mod\ \}}}}\$
 
-${\color{red}V\{lightblue}0\{orange}.}$
 
-${{\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}}$
+${{\color{red}\Welcome \space \color{lightblue}\To \space \color{orange}\Stackoverflow}}$
 
 
 
