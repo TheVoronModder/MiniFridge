@@ -5,11 +5,9 @@
 
 ${{\color{Goldenrod}\Huge{\textsf{  Door\ Lock\ latch\ is\ being\ worked\ on\ at\ the\ moment\ \}}}}\$
 
-${{\color{lime}\Huge{\textsf{ V\ \}}}}$${{\color{yellow}\Huge{\textsf{ 0\ \}}}}$${{\color{orange}\Huge{\textsf{ .\ \}}}}$${{\color{lime}\Huge{\textsf{ 2\ \}}}}$
 
-```css
-   // <style="color:DodgerBlue;">V</style>
-```
+
+
 
 BOM:
 4x m5 x 40 Pin
