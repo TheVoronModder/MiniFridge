@@ -5,31 +5,10 @@
 
 ${{\color{Goldenrod}\Huge{\textsf{  Door\ Lock\ latch\ is\ being\ worked\ on\ at\ the\ moment\ \}}}}\$
 
-
-This project was designed from WhoppingPochard's Clicky-Clack door mod for 2.4's and Tridents. 
-
-### Huge Shout Out to woppingpochard for his design which gave me the idea to make a door for the v0's
-https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door
+${{\color{lime}\Huge{\textsf{ V\ \}}}}$
 
 
-# **CURRENT RELEASE: BETA TESTING! Rev B/C**
 
-## **Issues:**
-
-Different dimensional profiles of 1515 extrusions.
-
-LDO rails are specific compared to other rails such as MakerBeam XL and V Slot Channels
-
-![1515 EXTRUSION COMPARISON]
-![1515 EXTRUSION COMPARISON](https://github.com/TheVoronModder/MiniFridge/assets/142328467/4ffdb9b3-0135-4e9b-a8d7-f8a08344421f)
-
-In the above image, the LDO extrusions Profile A. and B. (LEFT) are slightly different than the MakerBeam XL (CENTER) and amazon.com sourced 1515 extrusions, most we have found are V Slot style and could potentially work, however, LDO and MakerBeam XL are currently ONLY supported.
-
-## **SOLUTION!**
-
-The solution is simple, focus on the most popular linear rails.
-
-Makerbeam XL has the 3mm channel width, parts designed are for 3mm channel width however, they work well with LDO MiSUMi rails also.
 
 BOM:
 4x m5 x 40 Pin
