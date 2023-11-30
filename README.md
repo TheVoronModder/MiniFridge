@@ -37,7 +37,7 @@ Extrusions:
 
 2x 200mm Long MiSUMi LDO 1515 extrusions
 
-_### Top Hats for LDO are shorter than generic Voron V0.2 kits._
+### _Top Hats for LDO are shorter than generic Voron V0.2 kits._
 
 # This mod has 4 versions....
 
