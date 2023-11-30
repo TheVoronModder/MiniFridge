@@ -29,15 +29,15 @@ ISSUES:
 
 2x m3 x 6 SCHC bolts
 
-Extrusions are dependent on V0 mods you have. 
+Extrusions:
 
-For OEM LDO Voron v0.2 
+## For OEM LDO Voron v0.2 
 
 2x 350mm Long MiSUMi LDO 1515 extrusions 
 
 2x 200mm Long MiSUMi LDO 1515 extrusions
 
-Top Hats for LDO are shorter than generic Voron V0.2 kits.
+## Top Hats for LDO are shorter than generic Voron V0.2 kits.
 
 # This mod has 4 versions....
 
