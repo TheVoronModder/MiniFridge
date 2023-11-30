@@ -7,7 +7,7 @@ ${{\color{Goldenrod}\Huge{\textsf{ V0.2\ \}}}}\$ ${{\color{Lime}\Huge{\textsf{ M
 
 ${\color{red}V\{lightblue}0\{orange}.}$
 
-${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$
+${{\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}}$
 
 
 
