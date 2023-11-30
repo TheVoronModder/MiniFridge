@@ -3,7 +3,7 @@
 
 
 
-${{\color{Goldenrod}\Huge{\textsf{ V0.2\ \}}}}\$ ${{\color{Lime}\Huge{\textsf{ Mini\ Fridge\ \}}}}\$ 
+${{\color{Goldenrod}\Huge{\textsf{ V0.2\ \}}}}\$ ${{\color{Lime}\Huge{\textsf{ Mini\ Fridge\ \}}}}\$ ${{\color{lightblue}\Huge{\textsf{ Door\ Mod\ \}}}}\$
 
 
 
