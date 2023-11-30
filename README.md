@@ -3,10 +3,9 @@
 
 
 
-${{\color{Goldenrod}\Huge{\textsf{  Door\ Lock\ latch\ is\ being\ worked\ on\ at\ the\ moment\ \}}}}\$
+${{\color{Goldenrod}\Huge{\textsf{ V0.2\ \}}}}\$
 
 
-${\color{red}Red}
 
 
 BOM:
