@@ -22,11 +22,7 @@ ISSUES:
 1.	if your running any screen other than the stock one you need to either print Fizzy Tech Discord Server Admin Jose’s skirt extenders for HartK’s Stealthchop mod with Waveshare 2.8” screen found here: https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%200/0.2/2_8WaveshareDisplay/Stealth/STLs/Stealth
 
 
-
-
-
-
-BOM:
+#BOM:
 4x m5 x 40 Pin
 12x m6 x 3 Neodymium magnets
 2x m3 x 6 SCHC bolts
