@@ -3,8 +3,8 @@
 
 V0.2 Mini Fridge Door Handle ready for business! This project is a revision of WhoppingPochard’s Clicky-Clack Door mod commonly known as or referred to as “Fridge Door Mod” or simply the “Fridge Door”
 
-https://github.com/TheVoronModder/MiniFridge/assets/142328467/aee62590-db8f-4a39-b517-25b00cca2506
-(Video thanks to Robert us from Fizzy's Tech Discord Server) 
+![IMG_8443](https://github.com/TheVoronModder/MiniFridge/assets/142328467/3868eaa5-61e7-4eba-a6dc-f0951a6598d3)
+(Image thanks to Robert us from Fizzy's Tech Discord Server) 
 
 I needed a better door for my v0.2 the flip up lid isn’t necessary to me so I created the “Mini Fridge Version 1” Then I realized I could shrink WhoppingPochard’s Clicky-Clack Door and re-fit it for the v0’s 3mm slot extrusions.
 
