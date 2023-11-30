@@ -9,7 +9,7 @@ V0.2 Mini Fridge Door Handle ready for business! This project is a revision of W
 
 I needed a better door for my v0.2 the flip up lid isn’t necessary to me so I created the “Mini Fridge Version 1” Then I realized I could shrink WhoppingPochard’s Clicky-Clack Door and re-fit it for the v0’s 3mm slot extrusions.
 
-# Speical thanks to whoppingpochard for creating the original mod for the 2.4 and Trident found here:
+# Special thanks to whoppingpochard for creating the original mod for the 2.4 and Trident found here:
 
 https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door
 
