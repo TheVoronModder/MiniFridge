@@ -25,19 +25,19 @@ ISSUES:
 
 ### **Hardware**
 
-4x m5 x 40 Pin
+- 4x m5 x 40 Pin
 
-12x m6 x 3 Neodymium magnets
+- 12x m6 x 3 Neodymium magnets
 
-10x m3 x 8 Allen BHCS bolts
+- 10x m3 x 8 Allen BHCS bolts
 
-4x m3 x 16 Allen SHCS Bolts
+- 4x m3 x 16 Allen SHCS Bolts
 
 ### **Extrusions**
 
-2x 200mm (for X)
+- 2x 200mm (for X)
 
-2x 350mm (for Y)
+- 2x 350mm (for Y)
 
 ### **Front Door Panel**
 
