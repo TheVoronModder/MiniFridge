@@ -29,7 +29,12 @@ ISSUES:
 
 12x m6 x 3 Neodymium magnets
 
-2x m3 x 6 SCHC bolts
+10x m3 x 8 Allen BHCS bolts
+
+4x m3 x 16 Allen SHCS Bolts
+
+  
+
 
 ### Extrusions:
 
