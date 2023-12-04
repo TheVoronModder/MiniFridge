@@ -21,7 +21,8 @@ ISSUES:
 1.	if your running any screen other than the stock one you need to either print Fizzy Tech Discord Server Admin Jose’s skirt extenders for HartK’s Stealthchop mod with Waveshare 2.8” screen found here: https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%200/0.2/2_8WaveshareDisplay/Stealth/STLs/Stealth
 
 
-# BOM:
+# BOM (specific to LDO v0.2 kits)
+
 4x m5 x 40 Pin
 
 12x m6 x 3 Neodymium magnets
@@ -31,6 +32,7 @@ ISSUES:
 Extrusions:
 
 2x 200mm (for X)
+
 2x 350mm (for Y)
 
 Panels:
@@ -38,19 +40,12 @@ Panels:
 Front Door Panel:
 
 
-## For OEM LDO Voron v0.2 
-
-2x 350mm Long MiSUMi LDO 1515 extrusions 
-
-2x 200mm Long MiSUMi LDO 1515 extrusions
 
 ### _Top Hats for LDO are shorter than generic Voron V0.2 kits._
 
-# This mod has 4 versions....
 
-## Outlined below
 
-**Due to variances in different 3d printers' dimensional accuracy, v0.2 heights may vary, the v0.2 has the XY gantry parts in the middle of the extrusions, there are configurations/mods that replace the plastic parts as part of the frame together leading to a more stable V0.2 anyway.***
+
 
 ## Versions 
 
