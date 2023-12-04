@@ -30,6 +30,14 @@ ISSUES:
 
 Extrusions:
 
+2x 200mm (for X)
+2x 350mm (for Y)
+
+Panels:
+
+Front Door Panel:
+
+
 ## For OEM LDO Voron v0.2 
 
 2x 350mm Long MiSUMi LDO 1515 extrusions 
