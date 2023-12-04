@@ -23,7 +23,7 @@ ISSUES:
 
 # BOM (specific to LDO v0.2 kits)
 
-### Hardware
+### ${{\color{lime}\Huge{\textsf{  Hardware\ \}}}}\$
 
 4x m5 x 40 Pin
 
