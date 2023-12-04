@@ -23,7 +23,7 @@ ISSUES:
 
 # BOM (specific to LDO v0.2 kits)
 
-### ${{\color{lime}\Huge{\textsf{  Hardware\ \}}}}\$
+### **Hardware**
 
 4x m5 x 40 Pin
 
@@ -33,15 +33,17 @@ ISSUES:
 
 4x m3 x 16 Allen SHCS Bolts
 
-### ${{\color{lime}\Huge{\textsf{  Extrusions\ \}}}}\$
+### **Extrusions**
 
 2x 200mm (for X)
 
 2x 350mm (for Y)
 
-### ${{\color{lime}\Huge{\textsf{  Front\ Door\ Panel\ \}}}}\$
+### **Front Door Panel**
 
 Front Door Panel:
+
+### **Optional But Highly Recommended Side Panels**
 
 
 
