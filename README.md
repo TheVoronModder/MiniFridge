@@ -33,7 +33,7 @@ ISSUES:
 
 - 4x m3 x 16 Allen SHCS Bolts
 
-- 4x Sleeve Bearing 5mm Inner Dia. 8mm Outter Diameter, 7mm Long
+- 4x Sleeve Bearing 5mm Inner Dia. 7mm Outter Diameter, 8mm Long
 
 ### **Extrusions**
 
