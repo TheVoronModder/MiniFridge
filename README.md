@@ -31,7 +31,9 @@ ISSUES:
 
 - 10x m3 x 8 Allen BHCS bolts
 
-- 4x m3 x 16 Allen SHCS Bolts
+- 2x m3 x 8 Allen SHCS bolts
+
+- 4x m3 x 16 Allen SHCS bolts
 
 - 4x Sleeve Bearing 5mm Inner Dia. 7mm Outter Diameter, 8mm Long
 
