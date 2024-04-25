@@ -9,7 +9,7 @@ This project is a modified versions of WhoppingPochard's Clicky-Clack Door mod.
 
 I needed a door my son could not break on the v0.2 the stock vhb style doors did not suffice, having WhoppingPochard's Clicky-Clack doors on my 2.4 and Trident I decided to create this version (mini version) for my son.
 
-# Serious special thanks to WhoppingPochard for creating the original mod in the first place.
+# Serious special thanks to WhoppingPochard for creating the original mod in the first place, and to hartk for his continued contributions to our community and his creation of the "stealh skirts" for the v0 utilizing a tiny waveshare display.
 Found here: https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door
 
 ----------------------------------
