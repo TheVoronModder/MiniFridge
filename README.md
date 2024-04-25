@@ -1,5 +1,9 @@
 # Mini Fridge Mod
 
+Update v1.1 - restructured all part folders, and added user mods with their names in the folder chain.
+
+LEFT-HANDED door and RIGHT-HANDED door HINGES are included in the files in case some slicers give grief mirroring parts. 
+
 ## Fridge Door for v0.2's (LDO V0.2)
 More versions in the works
 ------------------------------
