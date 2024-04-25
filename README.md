@@ -7,15 +7,16 @@ LEFT-HANDED door and RIGHT-HANDED door HINGES are included in the files in case 
 ## Fridge Door for v0.2's (LDO V0.2)
 More versions in the works
 ------------------------------
-This project is a modified versions of WhoppingPochard's Clicky-Clack Door mod.
+This project is a modified version of WhoppingPochard's Clicky-Clack Door mod.
 
 ![OEM skirts 3](https://github.com/TheVoronModder/MiniFridge/assets/142328467/fc336070-b607-4d19-9464-03042bfeda84)
 
 I needed a door my son could not break on the v0.2 the stock vhb style doors did not suffice, having WhoppingPochard's Clicky-Clack doors on my 2.4 and Trident I decided to create this version (mini version) for my son.
 
-# Serious special thanks to WhoppingPochard for creating the original mod in the first place, and to hartk for his continued contributions to our community and his creation of the "stealth skirts" for the v0 utilizing a tiny waveshare display.
-Clicky-Clack Found here: https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door
+# Serious special thanks to WhoppingPochard for creating the original mod in the first place, and to Maverick for his continued contributions to our community and his creation of the "stealth skirts". And to Hartk for his mini waveshare display for the skirts. 
+Clicky-Clack found here: https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door
 
+Stealth Skirts found here: https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/Maverick/V0.2_Stealth_Skirts
 ----------------------------------
 
 Printed Parts lists, well, just about everything we have is found in the (CAD and stl) folder above, I included fusion360 files and .step files along with the .stl's for anybody eager to create their own thing.
@@ -23,7 +24,7 @@ Printed Parts lists, well, just about everything we have is found in the (CAD an
 Hartk's v0.2 stealth skirts were re-worked to allow clearances for the mini-fridge door (found in the CAD and STL folder)
 -------------------------------------
 
-### For a different skirt variations check out Jose's Skirts here:
+### For different skirt variations check out Jose's Skirts here:
 
 https://www.printables.com/model/664878-taller-voron-02-waveshare-28-dsi-display
 
