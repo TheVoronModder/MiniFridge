@@ -1,5 +1,5 @@
 # MiniFridge
-## Fridge Door for v0's
+## Fridge Door for v0.2's (LDO Specifically - other kits may fit)
 
 V0.2 Mini Fridge Door Handle ready for business! This project is a revision of WhoppingPochard’s Clicky-Clack Door mod commonly known as or referred to as “Fridge Door Mod” or simply the “Fridge Door”
 
