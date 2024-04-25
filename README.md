@@ -19,13 +19,15 @@ Printed Parts lists, well, just about everything we have is found in the (CAD an
 Hartk's v0.2 stealth skirts were re-worked to allow clearances for the mini-fridge door (found in the CAD and STL folder)
 -------------------------------------
 
-For a different skirt variations check out Jose's Skirts here:
+### For a different skirt variations check out Jose's Skirts here:
+
 https://www.printables.com/model/664878-taller-voron-02-waveshare-28-dsi-display
 
 ![jose skirts](https://github.com/TheVoronModder/MiniFridge/assets/142328467/053e5c15-dd6e-46f4-b0a4-b6bf4f603ce2)
 
 
-And if you like large screens check out Roberts Skirts here:
+### And if you like large screens check out Roberts Skirts here:
+
 https://www.printables.com/model/719307-v02-mini-fridge-stealth-skirt-g2z-files/files
 
 ![roberts](https://github.com/TheVoronModder/MiniFridge/assets/142328467/ace6260a-ef7c-41ed-8cc6-1e4a3ba07f3e)
