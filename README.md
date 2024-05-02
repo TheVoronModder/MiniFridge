@@ -9,8 +9,9 @@ This project is a modified version of WhoppingPochard's Clicky-Clack Door mod.
 ![widescreen hero](https://github.com/TheVoronModder/testing2/assets/142328467/46213ec0-d297-43fc-9520-bfa93b8a4f9a)
 
 
-## UPDATE!!!!! 5/2/24 - 3mm foam panels parts are not 100% complete yet, the door hinge is being worked on and tested currently, stay tuned for updates or if you like you are free to download the part files and modify them as youR own.
+## UPDATE!!!!! 5/2/24 - 3mm foam panels parts are not 100% complete yet, the door hinge is being worked on and tested currently, stay tuned for updates or if you like you are free to download the part files and modify them as your own.
 
+The first LDO kits shipped were sent with 2x extra m3x8mm BHCS instead of SHCS, the cad files for the fridge upper / lower latch have been modified to work with both BHCS and SHCS.
 -------------------------------------------------------------------------------
 
 ## There are 2 versions of door hinges, Left Handed and Right Handed - Yes, I made an option for Left Handed people. (Details below)
