@@ -243,6 +243,7 @@ Right Hinge (Left Handed) - https://github.com/TheVoronModder/MiniFridge/tree/ma
 * hartk - For your work done on "stealth skirts" with Maverick and your Waveshare display mount
 * jose - For your work testing, working through issues, wasting plenty of melted plastic and of course your skirts contribution
 * robert - for your work testing, printing, arguing, whining, and above all else, your constant fantastic feedback! and your work on the TFT display mount.
+* OldGuyMeltsPlastic (steph) - Thank you for all your encouragement, test printing even though your v0.2 was torn apart and of course constructive advisement.
 * caza - Thank you for designing the 3mm foam side panel mounts. 
 * everyone included in the official beta on Fizzy Tech's Discord Server.
 
