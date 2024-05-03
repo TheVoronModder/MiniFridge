@@ -131,6 +131,7 @@ The first LDO kits shipped were sent with 2x extra m3x8mm BHCS instead of SHCS, 
 
 2 file types for each printer, a bit excessive I know, however, in testing not all panels fit precisely, it depends on who you have cut them, West3d's kits are verified to fit, and Mandala Rose Works and Dllpdf can make your panels to order.
 
+<details closed>
 <summary><strong>V0.2 80mm Top Hat</strong></summary>
 <table>
   <tr>
@@ -150,8 +151,9 @@ The first LDO kits shipped were sent with 2x extra m3x8mm BHCS instead of SHCS, 
     </td>        
  </tr>
 </table>
+</details>
 
-
+<details closed>
 <summary><strong>V0.2 100mm Top Hat</strong></summary>
 <table>
   <tr>
@@ -171,9 +173,9 @@ The first LDO kits shipped were sent with 2x extra m3x8mm BHCS instead of SHCS, 
     </td>        
  </tr>
 </table>
+</details>
 
-
-
+<details closed>
 <summary><strong>Micron</strong></summary>
 <table>
   <tr>
@@ -193,7 +195,7 @@ The first LDO kits shipped were sent with 2x extra m3x8mm BHCS instead of SHCS, 
     </td>        
  </tr>
 </table>
-
+</details>
 
 -----------------------------------------------------
 ## Skirt Options
