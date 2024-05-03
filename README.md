@@ -95,31 +95,31 @@ The first LDO kits shipped were sent with 2x extra m3x8mm BHCS instead of SHCS, 
   <tr>
     <td>m3x12mm (BHCS)</td>
     <td>x10</td>
-    <td><img src=https://github.com/TheVoronModder/testing2/assets/142328467/dee5cd52-ecb8-4681-a724-970e0368fdc6></img></td>
+    <td><img src=https://github.com/TheVoronModder/MiniFridge/assets/142328467/30fa9706-4b6a-4bf2-ace5-2bfdb16366a4></img></td>
   </tr>
   <tr>
     <td>m3x8mm (SHCS)</td>
     <td>x2</td>
-    <td><img src=https://github.com/TheVoronModder/testing2/assets/142328467/b9388139-87ec-4383-8e56-21aa68b6a509></img></td>
+    <td><img src=https://github.com/TheVoronModder/MiniFridge/assets/142328467/96f507ce-4b8b-4c18-9fc1-cf0efd69abf1></img></td>
   </tr>
   <tr>
     <td>m3x16mm (SHCS)</td>
     <td>x4</td>
-    <td><img src=https://github.com/TheVoronModder/testing2/assets/142328467/d1da168b-a63e-472c-b4eb-2085720b9fad></img></td>
+    <td><img src=https://github.com/TheVoronModder/MiniFridge/assets/142328467/7d40f485-8063-4640-ab78-665b22a82b04></img></td>
   </tr>
     <td>m5x40mm long pin</td>
     <td>2x</td>
-    <td><img src=https://github.com/TheVoronModder/testing2/assets/142328467/52e759ad-b153-479a-9f9e-f1a8ac5b2655></img></td>
+    <td><img src=https://github.com/TheVoronModder/MiniFridge/assets/142328467/f50054df-7f2b-44e8-a523-58fe0a0e5160></img></td>
   </tr>
   <tr>
     <td>m6x3mm Neodymium Magnets</td>
     <td>x12</td>
-    <td><img src=https://github.com/TheVoronModder/testing2/assets/142328467/2a9ae4a6-5341-4b95-8b7a-625efd136276></img></td>
+    <td><img src=https://github.com/TheVoronModder/MiniFridge/assets/142328467/20c08e10-a085-4d07-953b-fae2488d17ef></img></td>
   </tr>
   <tr>
     <td>5mm ID, 7mm OD, 8mm Long Dry Running Sleeve Bearing</td>
     <td>x4</td>
-    <td><img src=https://github.com/TheVoronModder/testing2/assets/142328467/02822072-fe02-4972-8272-b3cea614b477></img></td>
+    <td><img src=https://github.com/TheVoronModder/MiniFridge/assets/142328467/dccac597-6405-49ae-b1dd-03736c506a15></img></td>
   </tr>
 </table>
 </details>
