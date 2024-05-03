@@ -2,13 +2,13 @@
 
 This project is a modified version of WhoppingPochard's Clicky-Clack Door mod.
 
-### I needed a door my son could not break on the v0.2, the stock VHB style doors work well however with an excited child they tend to break, having WhoppingPochard's Clicky-Clack doors on my 2.4 and Trident I decided to create this version (mini version) for my son.
+I needed a door my son could not break on the v0.2, the stock VHB style doors work well however with an excited child they tend to break, having WhoppingPochard's Clicky-Clack doors on my 2.4 and Trident I decided to create this version (mini version) for my son.
 
 
 ![widescreen hero](https://github.com/TheVoronModder/MiniFridge/assets/142328467/22bdb0c7-ece7-482e-9293-6f48190b7502)
 
 
-## UPDATE!!!!! 5/2/24 - 3mm foam panels parts are not 100% complete yet, the door hinge is being worked on and tested currently, stay tuned for updates or if you like you are free to download the part files and modify them as your own.
+### UPDATE!!!!! 5/2/24 - 3mm foam panels parts are not 100% complete yet, the door hinge is being worked on and tested currently, stay tuned for updates or if you like you are free to download the part files and modify them as your own.
 
 The first LDO kits shipped were sent with 2x extra m3x8mm BHCS instead of SHCS, the cad files for the fridge upper / lower latch have been modified to work with both BHCS and SHCS.
 -------------------------------------------------------------------------------
