@@ -13,7 +13,7 @@ I needed a door my son could not break on the v0.2, the stock VHB style doors wo
 The first LDO kits shipped were sent with 2x extra m3x8mm BHCS instead of SHCS, the cad files for the fridge upper / lower latch have been modified to work with both BHCS and SHCS.
 -------------------------------------------------------------------------------
 
-## There are 2 versions of door hinges, Left Handed and Right Handed - Yes, I made an option for Left Handed people. (Details below)
+ There are 2 versions of door hinges, Left Handed and Right Handed - Yes, I made an option for Left Handed people. (Details below)
 
 -------------------------------------------------------------------------------
 ## Approved Vendors
