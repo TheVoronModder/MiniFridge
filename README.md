@@ -5,8 +5,7 @@ This project is a modified version of WhoppingPochard's Clicky-Clack Door mod.
 ### I needed a door my son could not break on the v0.2, the stock VHB style doors work well however with an excited child they tend to break, having WhoppingPochard's Clicky-Clack doors on my 2.4 and Trident I decided to create this version (mini version) for my son.
 
 
-
-![widescreen hero](https://github.com/TheVoronModder/testing2/assets/142328467/46213ec0-d297-43fc-9520-bfa93b8a4f9a)
+![widescreen hero](https://github.com/TheVoronModder/MiniFridge/assets/142328467/22bdb0c7-ece7-482e-9293-6f48190b7502)
 
 
 ## UPDATE!!!!! 5/2/24 - 3mm foam panels parts are not 100% complete yet, the door hinge is being worked on and tested currently, stay tuned for updates or if you like you are free to download the part files and modify them as your own.
@@ -52,31 +51,31 @@ The first LDO kits shipped were sent with 2x extra m3x8mm BHCS instead of SHCS, 
   <tr>
     <td>m3x8mm (BHCS)</td>
     <td>x10</td>
-    <td><img src=https://github.com/TheVoronModder/testing2/assets/142328467/a87ad841-62ba-4a13-8819-a5bb9443e7d1></img></td>
+    <td><img src=https://github.com/TheVoronModder/MiniFridge/assets/142328467/1619e4ad-7f05-4425-a81e-eda0a6b73faa></img></td>
   </tr>
   <tr>
     <td>m3x8mm (SHCS)</td>
     <td>x2</td>
-    <td><img src=https://github.com/TheVoronModder/testing2/assets/142328467/b9388139-87ec-4383-8e56-21aa68b6a509></img></td>
+    <td><img src=https://github.com/TheVoronModder/MiniFridge/assets/142328467/96f507ce-4b8b-4c18-9fc1-cf0efd69abf1></img></td>
   </tr>
   <tr>
     <td>m3x16mm (SHCS)</td>
     <td>x4</td>
-    <td><img src=https://github.com/TheVoronModder/testing2/assets/142328467/d1da168b-a63e-472c-b4eb-2085720b9fad></img></td>
+    <td><img src=https://github.com/TheVoronModder/MiniFridge/assets/142328467/7d40f485-8063-4640-ab78-665b22a82b04></img></td>
   </tr>
     <td>m5x40mm long pin</td>
     <td>2x</td>
-    <td><img src=https://github.com/TheVoronModder/testing2/assets/142328467/52e759ad-b153-479a-9f9e-f1a8ac5b2655></img></td>
+    <td><img src=https://github.com/TheVoronModder/MiniFridge/assets/142328467/f50054df-7f2b-44e8-a523-58fe0a0e5160></img></td>
   </tr>
   <tr>
     <td>m6x3mm Neodymium Magnets</td>
     <td>x12</td>
-    <td><img src=https://github.com/TheVoronModder/testing2/assets/142328467/2a9ae4a6-5341-4b95-8b7a-625efd136276></img></td>
+    <td><img src=https://github.com/TheVoronModder/MiniFridge/assets/142328467/20c08e10-a085-4d07-953b-fae2488d17ef></img></td>
   </tr>
   <tr>
     <td>5mm ID, 7mm OD, 8mm Long Dry Running Sleeve Bearing</td>
     <td>x4</td>
-    <td><img src=https://github.com/TheVoronModder/testing2/assets/142328467/02822072-fe02-4972-8272-b3cea614b477></img></td>
+    <td><img src=https://github.com/TheVoronModder/MiniFridge/assets/142328467/dccac597-6405-49ae-b1dd-03736c506a15></img></td>
   </tr>
 </table>
 </details>
