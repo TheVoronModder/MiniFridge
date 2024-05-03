@@ -213,7 +213,7 @@ The first LDO kits shipped were sent with 2x extra m3x8mm BHCS instead of SHCS, 
   <tr>
     <td>skippy34 aka Robert - FizzyTech Discord Server</td>
     <td>https://www.printables.com/model/719307-v02-mini-fridge-stealth-skirt-g2z-files/files</td>
-    <td><img src=[https://github.com/TheVoronModder/testing2/assets/142328467/6bb236c8-434c-491c-9771-0661028d42c2](https://github.com/TheVoronModder/MiniFridge/assets/142328467/19d63b53-5e7b-4721-8a4f-2cff5ca070de)></img></td>
+    <td><img src=https://github.com/TheVoronModder/MiniFridge/assets/142328467/55808165-3516-4975-aea9-19a9418951ec></img></td>
   <tr>
     <td>TheVoronModder aka Kyle - FizzyTech Discord Server</td>
     <td>https://github.com/TheVoronModder/MiniFridge/tree/main/mini_fridge_skirts/revised_hartk_stealth_skirts</td>
