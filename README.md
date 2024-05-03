@@ -208,17 +208,16 @@ The first LDO kits shipped were sent with 2x extra m3x8mm BHCS instead of SHCS, 
   <tr>
     <td>jbori347 aka Jose - FizzyTech Discord Server</td>
     <td>https://www.printables.com/model/664878-taller-voron-02-waveshare-28-dsi-display</td>
-    <td><img src=https://github.com/TheVoronModder/testing2/assets/142328467/c549f4cb-ef99-44e8-b9c3-3578e10f47b7></img></td>
+    <td><img src=https://github.com/TheVoronModder/MiniFridge/assets/142328467/7fcab52c-491a-4814-9e29-dfdae835a16b></img></td>
   </tr>
   <tr>
     <td>skippy34 aka Robert - FizzyTech Discord Server</td>
     <td>https://www.printables.com/model/719307-v02-mini-fridge-stealth-skirt-g2z-files/files</td>
-    <td><img src=https://github.com/TheVoronModder/testing2/assets/142328467/6bb236c8-434c-491c-9771-0661028d42c2></img></td>
-  </tr>
+    <td><img src=[https://github.com/TheVoronModder/testing2/assets/142328467/6bb236c8-434c-491c-9771-0661028d42c2](https://github.com/TheVoronModder/MiniFridge/assets/142328467/19d63b53-5e7b-4721-8a4f-2cff5ca070de)></img></td>
   <tr>
     <td>TheVoronModder aka Kyle - FizzyTech Discord Server</td>
     <td>https://github.com/TheVoronModder/MiniFridge/tree/main/mini_fridge_skirts/revised_hartk_stealth_skirts</td>
-    <td><img src=https://github.com/TheVoronModder/testing2/assets/142328467/8e9dff93-995c-44c9-b2d4-e13bc38c9ba3></img></td>
+    <td><img src=https://github.com/TheVoronModder/MiniFridge/assets/142328467/fbebf8c3-cf4d-4afd-9595-091a96204521></img></td>
   </tr>
 </table>
 
@@ -243,7 +242,7 @@ Right Hinge (Left Handed) - https://github.com/TheVoronModder/MiniFridge/tree/ma
 * hartk - For your work done on "stealth skirts" with Maverick and your Waveshare display mount
 * jose - For your work testing, working through issues, wasting plenty of melted plastic and of course your skirts contribution
 * robert - for your work testing, printing, arguing, whining, and above all else, your constant fantastic feedback! and your work on the TFT display mount.
-* OldGuyMeltsPlastic (steph) - Thank you for all your encouragement, test printing even though your v0.2 was torn apart and of course constructive advisement.
+* OldGuyMeltsPlastic (steph) - Thank you for all your encouragement, and of course constructive advisement.
 * caza - Thank you for designing the 3mm foam side panel mounts. 
 * everyone included in the official beta on Fizzy Tech's Discord Server.
 
