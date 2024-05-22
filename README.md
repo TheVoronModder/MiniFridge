@@ -59,7 +59,7 @@ The first LDO kits shipped were sent with 2x extra m3x8mm BHCS instead of SHCS, 
     <td><img src=https://github.com/TheVoronModder/MiniFridge/assets/142328467/96f507ce-4b8b-4c18-9fc1-cf0efd69abf1></img></td>
   </tr>
   <tr>
-    <td>m3x16mm (SHCS)</td>
+    <td>m3x16mm (BHCS)</td>
     <td>x4</td>
     <td><img src=https://github.com/TheVoronModder/MiniFridge/assets/142328467/7d40f485-8063-4640-ab78-665b22a82b04></img></td>
   </tr>
