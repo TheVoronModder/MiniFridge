@@ -166,9 +166,9 @@ The first LDO kits shipped were sent with 2x extra m3x8mm BHCS instead of SHCS, 
     <br>
     z - 1515 330mm</td>
     </br>
-    <td>309mm x 209mm - Relaxed
+    <td>329mm x 209mm - Relaxed
     <br>
-    310mm x 210mm - Tight Fit - assuming your extrusions are perfect</td>
+    330mm x 210mm - Tight Fit - assuming your extrusions are perfect</td>
     <td>Both are found here: https://github.com/TheVoronModder/MiniFridge/tree/main/v2%20100%20dxf
     </td>        
  </tr>
