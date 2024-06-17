@@ -137,7 +137,7 @@ The first LDO kits shipped were sent with 2x extra m3x8mm BHCS instead of SHCS, 
   <tr>
     <th>Extrusions</th>
     <th>Panel</th>
-    <th>.dxf</th>
+
   </tr>
   <tr>
     <td>x - 1515 200mm
@@ -147,7 +147,6 @@ The first LDO kits shipped were sent with 2x extra m3x8mm BHCS instead of SHCS, 
     <td>289mm x 209mm - Relaxed
     <br>
     290mm x 210mm - Tight Fit - assuming your extrusions are perfect</td>
-    <td>Both are found here: https://github.com/TheVoronModder/MiniFridge/tree/main/Micron%20dxf
     </td>        
  </tr>
 </table>
@@ -169,8 +168,7 @@ The first LDO kits shipped were sent with 2x extra m3x8mm BHCS instead of SHCS, 
     <td>329mm x 209mm - Relaxed
     <br>
     330mm x 210mm - Tight Fit - assuming your extrusions are perfect</td>
-    <td>Both are found here: https://github.com/TheVoronModder/MiniFridge/tree/main/v2%20100%20dxf
-    </td>        
+   
  </tr>
 </table>
 </details>
@@ -191,8 +189,7 @@ The first LDO kits shipped were sent with 2x extra m3x8mm BHCS instead of SHCS, 
     <td>329mm x 289mm - Relaxed
     <br>
     330mm x 290mm - Tight Fit - assuming your extrusions are perfect</td>
-    <td>Both are found here: https://github.com/TheVoronModder/MiniFridge/tree/main/Micron%20dxf
-    </td>        
+     
  </tr>
 </table>
 </details>
