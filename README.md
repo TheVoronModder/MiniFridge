@@ -64,12 +64,12 @@ The first LDO kits shipped were sent with 2x extra m3x8mm BHCS instead of SHCS, 
     <td><img src=https://github.com/TheVoronModder/MiniFridge/assets/142328467/7d40f485-8063-4640-ab78-665b22a82b04></img></td>
   </tr>
     <td>m5x40mm long pin</td>
-    <td>2x</td>
+    <td>4x</td>
     <td><img src=https://github.com/TheVoronModder/MiniFridge/assets/142328467/f50054df-7f2b-44e8-a523-58fe0a0e5160></img></td>
   </tr>
   <tr>
     <td>m6x3mm Neodymium Magnets</td>
-    <td>x12</td>
+    <td>x8</td>
     <td><img src=https://github.com/TheVoronModder/MiniFridge/assets/142328467/20c08e10-a085-4d07-953b-fae2488d17ef></img></td>
   </tr>
   <tr>
@@ -108,12 +108,12 @@ The first LDO kits shipped were sent with 2x extra m3x8mm BHCS instead of SHCS, 
     <td><img src=https://github.com/TheVoronModder/MiniFridge/assets/142328467/7d40f485-8063-4640-ab78-665b22a82b04></img></td>
   </tr>
     <td>m5x40mm long pin</td>
-    <td>2x</td>
+    <td>4x</td>
     <td><img src=https://github.com/TheVoronModder/MiniFridge/assets/142328467/f50054df-7f2b-44e8-a523-58fe0a0e5160></img></td>
   </tr>
   <tr>
     <td>m6x3mm Neodymium Magnets</td>
-    <td>x12</td>
+    <td>x8</td>
     <td><img src=https://github.com/TheVoronModder/MiniFridge/assets/142328467/20c08e10-a085-4d07-953b-fae2488d17ef></img></td>
   </tr>
   <tr>
@@ -126,7 +126,7 @@ The first LDO kits shipped were sent with 2x extra m3x8mm BHCS instead of SHCS, 
 
 
  -------------------------------------------------------------
-# List of Extrusions and Panel Sizes with links to the appropriate .dxf 
+# List of Extrusions and Panel Sizes with links to the appropriate .dxf
 ### These are designed around Misumi Extrusions others may work but are currently UNTESTED
 
 2 file types for each printer, a bit excessive I know, however, in testing not all panels fit precisely, it depends on who you have cut them, West3d's kits are verified to fit, and Mandala Rose Works and Dllpdf can make your panels to order.
@@ -142,12 +142,12 @@ The first LDO kits shipped were sent with 2x extra m3x8mm BHCS instead of SHCS, 
   <tr>
     <td>x - 1515 200mm
     <br>
-    z - 1515 310mm</td>
+    z - 1515 330mm</td>
     </br>
-    <td>289mm x 209mm - Relaxed
+    <td>309mm x 209mm - Relaxed
     <br>
-    290mm x 210mm - Tight Fit - assuming your extrusions are perfect</td>
-    </td>        
+    310mm x 210mm - Tight Fit - assuming your extrusions are perfect</td>
+    </td>
  </tr>
 </table>
 </details>
@@ -163,18 +163,18 @@ The first LDO kits shipped were sent with 2x extra m3x8mm BHCS instead of SHCS, 
   <tr>
     <td>x - 1515 200mm
     <br>
-    z - 1515 330mm</td>
+    z - 1515 350mm</td>
     </br>
     <td>329mm x 209mm - Relaxed
     <br>
     330mm x 210mm - Tight Fit - assuming your extrusions are perfect</td>
-   
+
  </tr>
 </table>
 </details>
 
 <details closed>
-<summary><strong>Micron</strong></summary>
+<summary><strong>Micron 180</strong></summary>
 <table>
   <tr>
     <th>Extrusions</th>
@@ -189,7 +189,28 @@ The first LDO kits shipped were sent with 2x extra m3x8mm BHCS instead of SHCS, 
     <td>329mm x 289mm - Relaxed
     <br>
     330mm x 290mm - Tight Fit - assuming your extrusions are perfect</td>
-     
+
+ </tr>
+</table>
+</details>
+
+<details closed>
+<summary><strong>Salad Fork 180</strong></summary>
+<table>
+  <tr>
+    <th>Extrusions</th>
+    <th>Panel</th>
+    <th>.dxf</th>
+  </tr>
+  <tr>
+    <td>x - 1515 290mm
+    <br>
+    z - 1515 400mm</td>
+    </br>
+    <td>379mm x 299mm - Relaxed
+    <br>
+    380mm x 300mm - Tight Fit - assuming your extrusions are perfect</td>
+
  </tr>
 </table>
 </details>
@@ -242,7 +263,7 @@ Right Hinge (Left Handed) - https://github.com/TheVoronModder/MiniFridge/tree/ma
 * jose - For your work testing, working through issues, wasting plenty of melted plastic and of course your skirts contribution
 * robert - for your work testing, printing, arguing, whining, and above all else, your constant fantastic feedback! and your work on the TFT display mount.
 * OldGuyMeltsPlastic (steph) - Thank you for all your encouragement, and of course constructive advisement.
-* caza - Thank you for designing the 3mm foam side panel mounts. 
+* caza - Thank you for designing the 3mm foam side panel mounts.
 * everyone included in the official beta on Fizzy Tech's Discord Server.
 
 If you are not a member yet please join us today:
