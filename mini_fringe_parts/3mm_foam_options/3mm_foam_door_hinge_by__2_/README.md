@@ -2,10 +2,10 @@ These parts are for the addition of a strip of 3mm foam to be applied between th
 
 The engagement of the foam is set at 2.75mm, so the foam should be squished .25mm when fully closed. 
 
-Version modifies the the panel clips to replace the factory bom top hinge with the fridge door one, this allows the top hat to be opend like normal with the door installed still. 
-You will need the two panel clips that have been clearanced for the hinges. 
+Version modifies the the panel clips to replace the factory bom top hinge with the fridge door one, this allows the top hat to be opened like normal with the door installed still. 
+You will need the two panel clips that have been modified for the hinges. 
 
-As an aditional recommended option the top frame mounted hinge is designed to have a 5.5mm ball bearing installed. Just drop into the top before you install the bearing sleve. This will make for a much smoother door hinge because the pin now rides verticly on the ball bearing.
+As an additional recommended option the top frame mounted hinge is designed to have a 5.5mm ball bearing installed. Just drop into the top before you install the bearing sleeve. This will make for a much smoother door hinge because the pin now rides vertically on the ball bearing.
 
 If you want to make this a left swing just mirror the parts in your slicer. 
 
