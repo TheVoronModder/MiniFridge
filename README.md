@@ -41,7 +41,8 @@ The first LDO kits shipped were sent with 2x extra m3x8mm BHCS instead of SHCS, 
   </tr>
 </table>
 
-![frame dims bro](https://github.com/user-attachments/assets/1ab3e63b-530f-4012-a832-b3d9ef5a8fd3)
+![frame dims bro](https://github.com/user-attachments/assets/8ff9a495-f4f8-4192-8f09-3270eb55f32c)
+
 
 
 ## Hardware List - Stock Side Panel (Handle and Hinges)
@@ -62,7 +63,7 @@ The first LDO kits shipped were sent with 2x extra m3x8mm BHCS instead of SHCS, 
     <td><img src=https://github.com/TheVoronModder/MiniFridge/assets/142328467/96f507ce-4b8b-4c18-9fc1-cf0efd69abf1></img></td>
   </tr>
   <tr>
-    <td>m3x16mm (BHCS)</td>
+    <td>m3x14mm (BHCS)</td>
     <td>x4</td>
     <td><img src=https://github.com/TheVoronModder/MiniFridge/assets/142328467/7d40f485-8063-4640-ab78-665b22a82b04></img></td>
   </tr>
