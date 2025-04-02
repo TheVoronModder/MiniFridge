@@ -41,6 +41,9 @@ The first LDO kits shipped were sent with 2x extra m3x8mm BHCS instead of SHCS, 
   </tr>
 </table>
 
+![frame dims bro](https://github.com/user-attachments/assets/1ab3e63b-530f-4012-a832-b3d9ef5a8fd3)
+
+
 ## Hardware List - Stock Side Panel (Handle and Hinges)
 <table>
   <tr>
